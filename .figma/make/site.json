@@ -1,0 +1,10 @@
+{
+  "description": "Create and manage projects seamlessly with intuitive tools designed for teams, enhancing collaboration and productivity in real-time.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
